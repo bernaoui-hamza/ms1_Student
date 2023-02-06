@@ -1,2 +1,6 @@
-package com.example.ms1_student.Enums;public enum Gender {
+package com.example.ms1_student.Enums;
+
+public enum Gender {
+    homme,
+    femme
 }
